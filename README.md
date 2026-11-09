@@ -33,7 +33,7 @@ Computer Science graduate and IT professional returning to technology, combining
 - Application testing and issue reporting
 - SQL queries and reporting
 - HTML and CSS
-- ServiceNow, Jira, Dynatrace, Splunk, and Akamai (based on prior hands-on experience)
+- ServiceNow, Jira, Dynatrace, Splunk, and Akamai 
 
 ## 📂 Projects
 
