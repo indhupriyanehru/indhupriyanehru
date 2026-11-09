@@ -68,5 +68,5 @@ Computer Science graduate and IT professional returning to technology, combining
 - Applying previous IT support and application experience to data and technology roles.
 
 ## 🔗 Connect With Me
-- **LinkedIn:** Add your LinkedIn profile URL
-- **GitHub:** Add your GitHub profile URL
+- **LinkedIn:** https://www.linkedin.com/in/indhupriyanehru/
+- **GitHub:** https://github.com/indhupriyanehru/
